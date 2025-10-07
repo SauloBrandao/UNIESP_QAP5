@@ -12,3 +12,14 @@ A aplicação implementa uma calculadora de IMC (Índice de Massa Corporal), cuj
 
 # 🧩 Testes Feitos
 <img width="771" height="141" alt="{B4DA8294-AF6A-492C-9A64-94A4BF8AAD0C}" src="https://github.com/user-attachments/assets/efd2054f-8217-4f90-968d-b8421509e3a8" />
+
+# 🧩 Requerimentos e Funcionamento
+
+### Rodando Testes
+1 - Instalar pytest e pytest-cov com pip install pytest / pip install pytest-cov
+2 - Rodar: pytest --cov=imc para gerar relatório
+3 - Rodar:: pytest test_imc.py para testar métodos
+
+### Rodando Código
+1 - Basta executar main.py
+2 - insira suas informações (Peso e Altura
