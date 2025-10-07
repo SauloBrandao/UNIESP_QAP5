@@ -11,4 +11,4 @@ A aplicação implementa uma calculadora de IMC (Índice de Massa Corporal), cuj
 - fornece resultados consistentes, seguros e bem formatados.
 
 # 🧩 Testes Feitos
-<img width="799" height="68" alt="{D23CB427-95D2-4438-9F7D-9ED718E97153}" src="https://github.com/user-attachments/assets/113e4192-e503-401c-9db9-aee37a2546de" />
+<img width="771" height="141" alt="{B4DA8294-AF6A-492C-9A64-94A4BF8AAD0C}" src="https://github.com/user-attachments/assets/efd2054f-8217-4f90-968d-b8421509e3a8" />
